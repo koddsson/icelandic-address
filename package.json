@@ -1,0 +1,16 @@
+{
+  "name": "icelandic-address",
+  "version": "1.0.0",
+  "description": "A small component to look up Icelandic addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/koddsson/icelandic-address",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.55.0",
+    "underscore": "^1.8.3"
+  }
+}
